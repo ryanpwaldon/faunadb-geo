@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@radarlabs/s2@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@radarlabs/s2/-/s2-0.0.3.tgz#31a86d097dc050d9a797323bfd8416efb1d2e28c"
-  integrity sha512-RRpEPyyqwJv3N9+0T7rdl9fo/2lm7bU67VY7cFqfpr8poDu6M0SsKYBRAiHXysS+afOUrtyALjPJY4JkfoDW6A==
+"@radarlabs/s2@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@radarlabs/s2/-/s2-0.0.4.tgz#b3a3cb2c34b43903595e97d27e0fd8e99a959598"
+  integrity sha512-TYaCBgnQp08Rtn5Wk001ohoR4dkH4akkkNmz91v174AD2ggRXA6sp1C4AIlI5WfsKK5il03WR0u+VvS7QW3dQw==
   dependencies:
     node-addon-api "^1.7.1"
     node-gyp "^5.0.6"
